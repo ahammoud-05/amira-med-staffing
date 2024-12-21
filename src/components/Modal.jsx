@@ -28,7 +28,7 @@ const Modal = ({ isModalOpen, toggleModal }) => {
                 <button id='contact__submit' className='form-submit'>Send</button>
             </form>
             <h4 className="modal-subtitle">
-            If you would like to submit a referral, please click here.
+            If you would like to submit a referral, please <a className='referral-button' href='https://www.amiramedicalstaffing.com/img/ReferralForm.pdf' target='_blank'>click here.</a>
             </h4>
             <div className="modal-overlay modal-overlay-loading">
 

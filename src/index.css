@@ -256,6 +256,11 @@ MODAL
   transform: translateX(100%);
 }
 
+.referral-button {
+  color: rgba(0, 140, 255, 0.918);
+  text-decoration: underline;
+}
+
 /* 
 
 LANDING
