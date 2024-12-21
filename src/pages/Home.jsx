@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import doctors from "../assets/doctors-and-nurses-coordinate-hands-concept-teamwork-free-photo.jpg"
 import Aos from 'aos';
 import 'aos/dist/aos.css';
+import Modal from '../components/Modal';
 
 const Home = () => {
 
